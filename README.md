@@ -1,6 +1,5 @@
 # About Me:
-I'm a Computer Science student with a strong focus on cybersecurity<br>and penetration testing. My approach to learning security is hands on: I build systems to <br>understand how they work, then learn how to break and secure them. Rather than just <br>consuming theory, I believe in getting my hands dirty setting up vulnerable environments, <br>exploiting them, and understanding the attacker's mindset from the inside out. I also work <br>with web development, not just to build applications, but to deeply understand how web <br>technologies work so I can identify and exploit their vulnerabilities. <br>The best way to secure a system is to know exactly how an attacker would break it.
-
+Hello there, I am a CS student ....Welcome to my git hub. <br> When I am not studying for quizzes/exams I build and break things.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali-35b72b304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhaideraliua@gmail.com) 
